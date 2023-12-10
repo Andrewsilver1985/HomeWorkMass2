@@ -1,0 +1,14 @@
+D:\Geek\HomeWorkBiMass\Zadacha_3\bin\Debug\net8.0\Zadacha_3.exe
+D:\Geek\HomeWorkBiMass\Zadacha_3\bin\Debug\net8.0\Zadacha_3.deps.json
+D:\Geek\HomeWorkBiMass\Zadacha_3\bin\Debug\net8.0\Zadacha_3.runtimeconfig.json
+D:\Geek\HomeWorkBiMass\Zadacha_3\bin\Debug\net8.0\Zadacha_3.dll
+D:\Geek\HomeWorkBiMass\Zadacha_3\bin\Debug\net8.0\Zadacha_3.pdb
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\Zadacha_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\Zadacha_3.AssemblyInfoInputs.cache
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\Zadacha_3.AssemblyInfo.cs
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\Zadacha_3.csproj.CoreCompileInputs.cache
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\Zadacha_3.dll
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\refint\Zadacha_3.dll
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\Zadacha_3.pdb
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\Zadacha_3.genruntimeconfig.cache
+D:\Geek\HomeWorkBiMass\Zadacha_3\obj\Debug\net8.0\ref\Zadacha_3.dll
