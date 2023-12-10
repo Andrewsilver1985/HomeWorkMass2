@@ -1,0 +1,14 @@
+D:\Geek\HomeWorkBiMass\Zadacha_1\bin\Debug\net8.0\Zadacha_1.exe
+D:\Geek\HomeWorkBiMass\Zadacha_1\bin\Debug\net8.0\Zadacha_1.deps.json
+D:\Geek\HomeWorkBiMass\Zadacha_1\bin\Debug\net8.0\Zadacha_1.runtimeconfig.json
+D:\Geek\HomeWorkBiMass\Zadacha_1\bin\Debug\net8.0\Zadacha_1.dll
+D:\Geek\HomeWorkBiMass\Zadacha_1\bin\Debug\net8.0\Zadacha_1.pdb
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\Zadacha_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\Zadacha_1.AssemblyInfoInputs.cache
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\Zadacha_1.AssemblyInfo.cs
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\Zadacha_1.csproj.CoreCompileInputs.cache
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\Zadacha_1.dll
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\refint\Zadacha_1.dll
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\Zadacha_1.pdb
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\Zadacha_1.genruntimeconfig.cache
+D:\Geek\HomeWorkBiMass\Zadacha_1\obj\Debug\net8.0\ref\Zadacha_1.dll
